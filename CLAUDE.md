@@ -9,7 +9,7 @@ Ce répertoire contient une collection de recettes organisées par catégorie. C
 ## Structure du répertoire
 
 ```
-recipes/
+recettes/
 ├── entrees/          # Entrées et amuse-bouches
 ├── plats/            # Plats principaux
 │   ├── viandes/
